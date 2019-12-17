@@ -1,5 +1,5 @@
 # Validere
-In order to explore whether or not the proverb "you drive for the show but putt for the dough" is true, a predictive model is made on the "Weekly data for the 2019 PGA tour season" data avaialble at https://bit.ly/38LUzxt. 
+In order to explore whether or not the proverb "you drive for the show but putt for the dough" is true, a predictive model is made on the "Weekly data for the 2019 PGA tour season" avaialble at https://bit.ly/38LUzxt. 
 
 The data contains multiple variables recorded for each player including 'Official Money - (MONEY)' which is the the total official money a player has earned year-to-date. 
 The success is assumed to be synonomous to the amount of "official dough" earned by a player and thus, 'Official Money - (MONEY)" is used as the target of the predictive model. Any other "variable" deemed related is used as the "features" in the model to explore their importance on the target. 
